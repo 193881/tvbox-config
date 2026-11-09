@@ -1095,51 +1095,6 @@
   ],
   "sites": [
     {
-      "key": "ManJuAiHongGuo",
-      "name": "🍉漫短┃小红🍉",
-      "type": 3,
-      "类型": "短剧",
-      "api": "csp_ManJuAiHongGuoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "ManJuAiHuoLong",
-      "name": "🍉漫剧┃小龙🍉",
-      "type": 3,
-      "类型": "短剧",
-      "api": "csp_ManJuAiHuoLongGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "ManJuAiQiMao",
-      "name": "🍉漫剧┃小猫🍉",
-      "type": 3,
-      "类型": "短剧",
-      "api": "csp_ManJuAiQiMaoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "ManJuAiXiFan",
-      "name": "🍉漫短┃小喜🍉",
-      "type": 3,
-      "类型": "短剧",
-      "api": "csp_ManJuAiXiFanGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "ManJuAiHeMa",
-      "name": "🍉漫短┃小马🍉",
-      "type": 3,
-      "类型": "短剧",
-      "api": "csp_ManJuAiHeMaGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "DuanJuAiHaoKan",
       "name": "🍉短剧┃好看🍉",
       "type": 3,
@@ -1174,81 +1129,7 @@
       "api": "csp_DuanJuAiWeiGuanGuard",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "AnimeAiGongHeGuo",
-      "name": "🤡共和┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeAiGongHeGuoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AnimeXiFan",
-      "name": "🤡稀饭┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeXiFanGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AnimeCiYuanCheng",
-      "name": "🤡次元┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeCiYuanChengGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AnimeAiMoDu",
-      "name": "🤡魔都┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeAiMoDuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "tv_pref-007_csp_Anime1",
-      "name": "🌸动漫·小盒子",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar"
-    },
-    {
-      "key": "tv_pref-007_csp_Dm84",
-      "name": "🚌动漫巴士·小盒子",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar"
-    },
-    {
-      "key": "tv_pref-007_Ying",
-      "name": "🌸樱花动漫·小盒子",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar"
-    },
-    {
-      "key": "tv_pref-007_csp_Duanju",
-      "name": "🎭短剧·小盒子",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://aiduanju.vip/",
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar"
     }
   ],
-  "warning": "短剧/漫剧/动漫专用配置，从 TVBox 官方源提取"
+  "warning": "短剧专用配置"
 }
