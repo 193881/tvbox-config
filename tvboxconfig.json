@@ -1,0 +1,75 @@
+{
+  "sites": [
+    {
+      "key": "360zy",
+      "name": "360|采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/seaxml/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风|采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡|采集",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "索尼|采集",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzi",
+      "name": "量子|采集",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hhzy",
+      "name": "豪华|采集",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jszy",
+      "name": "极速|采集",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "guangsu",
+      "name": "光速|采集",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ]
+}
