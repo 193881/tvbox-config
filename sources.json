@@ -49,6 +49,12 @@
       "name": "UndCover 公共仓",
       "type": "seed",
       "url": "https://raw.githubusercontent.com/UndCover/Public/refs/heads/main/tvbox.json"
+    },
+    {
+      "key": "custom-yo9gr6",
+      "name": "饭太硬 ⇐ TVBox 多仓列表",
+      "type": "seed",
+      "url": "https://qist.wyfc.qzz.io/fty.json"
     }
   ],
   "live_sources": []
