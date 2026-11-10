@@ -3,49 +3,49 @@
   "vod_sources": [
     {
       "key": "360zy",
-      "name": "360|Ã©ÂÂÃ©ÂÂ",
+      "name": "360|ÃÂ©ÃÂÃÂÃÂ©ÃÂÃÂ",
       "type": "cms",
       "api": "https://360zy.com/api.php/seaxml/vod/"
     },
     {
       "key": "bfzy",
-      "name": "Ã¦ÂÂ´Ã©Â£Â|Ã©ÂÂÃ©ÂÂ",
+      "name": "ÃÂ¦ÃÂÃÂ´ÃÂ©ÃÂ£ÃÂ|ÃÂ©ÃÂÃÂÃÂ©ÃÂÃÂ",
       "type": "cms",
       "api": "https://bfzyapi.com/api.php/provide/vod/"
     },
     {
       "key": "suoni",
-      "name": "Ã§Â´Â¢Ã¥Â°Â¼|Ã©ÂÂÃ©ÂÂ",
+      "name": "ÃÂ§ÃÂ´ÃÂ¢ÃÂ¥ÃÂ°ÃÂ¼|ÃÂ©ÃÂÃÂÃÂ©ÃÂÃÂ",
       "type": "cms",
       "api": "https://suoniapi.com/api.php/provide/vod/at/json/"
     },
     {
       "key": "seed-tvbox-official",
-      "name": "TVBox Ã¥Â®ÂÃ¦ÂÂ¹Ã¨ÂÂÃ¥ÂÂ",
+      "name": "TVBox ÃÂ¥ÃÂ®ÃÂÃÂ¦ÃÂÃÂ¹ÃÂ¨ÃÂÃÂÃÂ¥ÃÂÃÂ",
       "type": "seed",
       "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json"
     },
     {
       "key": "seed-tvbox-multi",
-      "name": "TVBox Ã¥Â¤ÂÃ¤Â»ÂÃ¥ÂÂÃ¨Â¡Â¨",
+      "name": "TVBox ÃÂ¥ÃÂ¤ÃÂÃÂ¤ÃÂ»ÃÂÃÂ¥ÃÂÃÂÃÂ¨ÃÂ¡ÃÂ¨",
       "type": "seed",
       "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/tvbox.json"
     },
     {
       "key": "seed-2hacc",
-      "name": "2hacc(Ã¥ÂÂ Ã©ÂÂ)",
+      "name": "2hacc(ÃÂ¥ÃÂÃÂ ÃÂ©ÃÂÃÂ)",
       "type": "seed",
       "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json"
     },
     {
       "key": "seed-wangxiaoer",
-      "name": "Ã§ÂÂÃ¤ÂºÂÃ¥Â°Â",
+      "name": "ÃÂ§ÃÂÃÂÃÂ¤ÃÂºÃÂÃÂ¥ÃÂ°ÃÂ",
       "type": "seed",
       "url": "https://9280.kstore.vip/newwex.json"
     },
     {
       "key": "seed-undcover",
-      "name": "UndCover Ã¥ÂÂ¬Ã¥ÂÂ±Ã¤Â»Â",
+      "name": "UndCover ÃÂ¥ÃÂÃÂ¬ÃÂ¥ÃÂÃÂ±ÃÂ¤ÃÂ»ÃÂ",
       "type": "seed",
       "url": "https://raw.githubusercontent.com/UndCover/Public/refs/heads/main/tvbox.json"
     }
@@ -53,15 +53,9 @@
   "live_sources": [
     {
       "key": "live-ccsh",
-      "name": "CCSH Ã§ÂÂ´Ã¦ÂÂ­ M3U",
+      "name": "CCSH ÃÂ§ÃÂÃÂ´ÃÂ¦ÃÂÃÂ­ M3U",
       "type": "live",
       "url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u"
-    },
-    {
-      "key": "live-free-tv",
-      "name": "Free-TV Ã§Â²Â¾Ã©ÂÂ",
-      "type": "live",
-      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
     }
   ]
 }
