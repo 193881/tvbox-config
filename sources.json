@@ -85,6 +85,12 @@
       "name": "bluestevenr-lang/zizhi-tongjian-365",
       "type": "seed",
       "url": "https://cdn.jsdelivr.net/gh/bluestevenr-lang/zizhi-tongjian-365@07bac8ef4b3a5249de99c44e83449feeeadb8ca6/tvbox/config.json"
+    },
+    {
+      "key": "custom-bl4jh6",
+      "name": "cicivi/jsyd-iptv",
+      "type": "seed",
+      "url": "https://cdn.jsdelivr.net/gh/cicivi/jsyd-iptv@cca51d96d100c49cfd9bd5facfe10f3fdffa44ef/m3u/tvbox.json"
     }
   ],
   "live_sources": []
