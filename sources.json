@@ -97,6 +97,12 @@
       "name": "gxnas/TvBox",
       "type": "seed",
       "url": "https://cdn.jsdelivr.net/gh/gxnas/TvBox@2d7a584cb44cfdf857b1fb8f04ae8f9167b05b30/tvbox.json"
+    },
+    {
+      "key": "custom-g6lu1k",
+      "name": "songlees355-wq/okay",
+      "type": "seed",
+      "url": "https://cdn.jsdelivr.net/gh/songlees355-wq/okay@d67a02cec5f5db23a1613644fb17041257f3d7ba/tvbox.json"
     }
   ],
   "live_sources": []
