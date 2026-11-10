@@ -57,24 +57,6 @@
       "name": "CCSH 直播 M3U",
       "type": "live",
       "url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u"
-    },
-    {
-      "key": "live-iptv-cn",
-      "name": "iptv-org 中国",
-      "type": "live",
-      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"
-    },
-    {
-      "key": "live-iptv-sport",
-      "name": "iptv-org 体育",
-      "type": "live",
-      "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
-    },
-    {
-      "key": "live-free-tv",
-      "name": "Free-TV 精选",
-      "type": "live",
-      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
     }
   ]
 }
