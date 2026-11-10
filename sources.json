@@ -67,6 +67,12 @@
       "name": "王二小接口 ⇐ TVBox 多仓列表",
       "type": "seed",
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
+    },
+    {
+      "key": "custom-o8xi79",
+      "name": "二月红接口 ⇐ TVBox 多仓列表",
+      "type": "seed",
+      "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
     }
   ],
   "live_sources": []
