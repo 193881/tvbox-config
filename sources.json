@@ -51,12 +51,5 @@
       "url": "https://raw.githubusercontent.com/UndCover/Public/refs/heads/main/tvbox.json"
     }
   ],
-  "live_sources": [
-    {
-      "key": "live-ccsh",
-      "name": "CCSH 直播 M3U",
-      "type": "live",
-      "url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u"
-    }
-  ]
+  "live_sources": []
 }
