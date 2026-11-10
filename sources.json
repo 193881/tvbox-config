@@ -61,6 +61,12 @@
       "name": "王二小放牛娃 ⇐ TVBox 多仓列表",
       "type": "seed",
       "url": "http://tv.999888987.xyz"
+    },
+    {
+      "key": "custom-je42lo",
+      "name": "王二小接口 ⇐ TVBox 多仓列表",
+      "type": "seed",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
     }
   ],
   "live_sources": []
