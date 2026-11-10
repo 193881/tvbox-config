@@ -115,6 +115,12 @@
       "name": "嗷呜 ⇐ jsyd-iptv",
       "type": "seed",
       "url": "https://9763.kstore.space/aowu.json"
+    },
+    {
+      "key": "custom-ix1us6",
+      "name": "无意云 ⇐ jsyd-iptv",
+      "type": "seed",
+      "url": "http://yc.wya6.cn/wykj.php"
     }
   ],
   "live_sources": []
