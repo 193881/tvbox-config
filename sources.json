@@ -1,0 +1,79 @@
+{
+  "edit": "2026-11-10",
+  "vod_sources": [
+    {
+      "key": "360zy",
+      "name": "360|采集",
+      "type": "cms",
+      "api": "https://360zy.com/api.php/seaxml/vod/"
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风|采集",
+      "type": "cms",
+      "api": "https://bfzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "suoni",
+      "name": "索尼|采集",
+      "type": "cms",
+      "api": "https://suoniapi.com/api.php/provide/vod/at/json/"
+    },
+    {
+      "key": "seed-tvbox-official",
+      "name": "TVBox 官方聚合",
+      "type": "seed",
+      "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json"
+    },
+    {
+      "key": "seed-tvbox-multi",
+      "name": "TVBox 多仓列表",
+      "type": "seed",
+      "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/tvbox.json"
+    },
+    {
+      "key": "seed-2hacc",
+      "name": "2hacc(加速)",
+      "type": "seed",
+      "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json"
+    },
+    {
+      "key": "seed-wangxiaoer",
+      "name": "王二小",
+      "type": "seed",
+      "url": "https://9280.kstore.vip/newwex.json"
+    },
+    {
+      "key": "seed-undcover",
+      "name": "UndCover 公共仓",
+      "type": "seed",
+      "url": "https://raw.githubusercontent.com/UndCover/Public/refs/heads/main/tvbox.json"
+    }
+  ],
+  "live_sources": [
+    {
+      "key": "live-ccsh",
+      "name": "CCSH 直播 M3U",
+      "type": "live",
+      "url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u"
+    },
+    {
+      "key": "live-iptv-cn",
+      "name": "iptv-org 中国",
+      "type": "live",
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"
+    },
+    {
+      "key": "live-iptv-sport",
+      "name": "iptv-org 体育",
+      "type": "live",
+      "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+    },
+    {
+      "key": "live-free-tv",
+      "name": "Free-TV 精选",
+      "type": "live",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+    }
+  ]
+}
