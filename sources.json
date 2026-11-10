@@ -109,6 +109,12 @@
       "name": "25175/tvyuan",
       "type": "seed",
       "url": "https://cdn.jsdelivr.net/gh/25175/tvyuan@9ef99207b0b673b6fddcd68b2c7a2bf206698cf3/tvbox.json"
+    },
+    {
+      "key": "custom-pkovir",
+      "name": "嗷呜 ⇐ jsyd-iptv",
+      "type": "seed",
+      "url": "https://9763.kstore.space/aowu.json"
     }
   ],
   "live_sources": []
