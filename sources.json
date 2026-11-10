@@ -55,6 +55,12 @@
       "name": "饭太硬 ⇐ TVBox 多仓列表",
       "type": "seed",
       "url": "https://qist.wyfc.qzz.io/fty.json"
+    },
+    {
+      "key": "custom-tkua6u",
+      "name": "王二小放牛娃 ⇐ TVBox 多仓列表",
+      "type": "seed",
+      "url": "http://tv.999888987.xyz"
     }
   ],
   "live_sources": []
