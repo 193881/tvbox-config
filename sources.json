@@ -75,5 +75,12 @@
       "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
     }
   ],
-  "live_sources": []
+  "live_sources": [
+    {
+      "key": "custom-t0ffwf",
+      "name": "去重测试",
+      "type": "live",
+      "url": "https://dupe-test.com/live.m3u"
+    }
+  ]
 }
