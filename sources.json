@@ -79,6 +79,12 @@
       "name": "qjlxg/abd",
       "type": "seed",
       "url": "https://cdn.jsdelivr.net/gh/qjlxg/abd@0b60f3cb49ca82e861482fe32c194ffed893314b/merged_tvbox_config.json"
+    },
+    {
+      "key": "custom-pj5zg8",
+      "name": "bluestevenr-lang/zizhi-tongjian-365",
+      "type": "seed",
+      "url": "https://cdn.jsdelivr.net/gh/bluestevenr-lang/zizhi-tongjian-365@07bac8ef4b3a5249de99c44e83449feeeadb8ca6/tvbox/config.json"
     }
   ],
   "live_sources": []
