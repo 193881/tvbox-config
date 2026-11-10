@@ -91,6 +91,12 @@
       "name": "cicivi/jsyd-iptv",
       "type": "seed",
       "url": "https://cdn.jsdelivr.net/gh/cicivi/jsyd-iptv@cca51d96d100c49cfd9bd5facfe10f3fdffa44ef/m3u/tvbox.json"
+    },
+    {
+      "key": "custom-j9ise5",
+      "name": "gxnas/TvBox",
+      "type": "seed",
+      "url": "https://cdn.jsdelivr.net/gh/gxnas/TvBox@2d7a584cb44cfdf857b1fb8f04ae8f9167b05b30/tvbox.json"
     }
   ],
   "live_sources": []
