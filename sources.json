@@ -73,12 +73,6 @@
       "name": "二月红接口 ⇐ TVBox 多仓列表",
       "type": "seed",
       "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
-    },
-    {
-      "key": "custom-hi63qi",
-      "name": "TVBox 多仓列表",
-      "type": "seed",
-      "url": "https://cdn.jsdelivr.net/gh/TVboxorg/TVbox@main/dist/tvbox.json"
     }
   ],
   "live_sources": []
